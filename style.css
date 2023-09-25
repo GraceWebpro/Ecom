@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    overflow-x: hidden;
+}
+.logo {
+    width: 8%;
+    height: 8%;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+
+.admin_img {
+    width: 100px;
+    object-fit: contain;
+}
+
+.prof-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
